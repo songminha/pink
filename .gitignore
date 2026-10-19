@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# 조사 결과물
+카페_보험제휴_조사결과.csv
+보험_미입점_카페_리스트.csv
+chrome-profile/
